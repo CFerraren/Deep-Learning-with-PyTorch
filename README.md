@@ -25,8 +25,9 @@ Here, we are covering the concepts behind deep learning and how to build deep le
 - PyTorch is designed with a Python-first philosophy, it follows Python conventions and idioms, and works perfectly alongside popular Python packages
 
 
+---
 
-1. Introduction to Neural Networks
+1. [Introduction to Neural Networks](https://github.com/CFerraren/Deep-Learning-with-PyTorch/tree/master/Introduction%20to%20Neural%20Networks)
 
 > Learn the concepts behind how neural networks operates and how we train them using data.
 
