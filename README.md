@@ -23,3 +23,10 @@ Here, we are covering the concepts behind deep learning and how to build deep le
 - PyTorch is more like an extension of Numpy that has some convenience classes for defining neural networks and accelerated computations using GPUs. 
 
 - PyTorch is designed with a Python-first philosophy, it follows Python conventions and idioms, and works perfectly alongside popular Python packages
+
+
+
+1. Introduction to Neural Networks
+
+> Learn the concepts behind how neural networks operates and how we train them using data.
+
